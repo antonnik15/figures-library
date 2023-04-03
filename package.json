@@ -12,7 +12,7 @@
     "codestyle": "yarn prettier && yarn tslint",
     "build": "yarn codestyle && yarn webpack && yarn typedoc",
     "test": "jest",
-    "dev": "tsc --w",
+    "dev" : "webpack",
     "typed": "typedoc --plugin typedoc-plugin-markdown --tsconfig tsconfig.json"
   },
   "devDependencies": {
