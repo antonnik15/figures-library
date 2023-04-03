@@ -1,9 +1,9 @@
 {
   "name": "lib-figure-implementation",
-  "version": "1.0.2",
-  "main": "dist/bundle.js",
+  "version": "1.0.4",
+  "main": "dist/index.js",
   "types": "dist/index.d.ts",
-  "module": "dist/bundle.js",
+  "module": "dist/index.js",
   "license": "MIT",
   "prepublish": "yarn build && yarn test",
   "scripts": {
@@ -12,7 +12,7 @@
     "codestyle": "yarn prettier && yarn tslint",
     "build": "yarn codestyle && yarn test && yarn webpack && yarn typedoc",
     "test": "jest",
-    "dev" : "webpack",
+    "dev" : "tsc",
     "typedoc": "typedoc --plugin typedoc-plugin-markdown"
   },
   "devDependencies": {
