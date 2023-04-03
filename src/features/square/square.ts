@@ -69,6 +69,7 @@ export class Square extends Shape {
   /**
    * This accessor change side length of square
    *
+   * @param newSide new side
    */
   set changeSide(newSide: number) {
     this.sideOfSquare = newSide;
@@ -86,6 +87,7 @@ export class Square extends Shape {
   /**
    * This accessor change line color of square for drawing figure in canvas
    *
+   * @param newColor new line color
    */
   set changeColor(newColor: string) {
     this.color = newColor;

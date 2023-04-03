@@ -11,18 +11,18 @@
 
 ## Table of contents
 - [Quick start](#quick-start)
-  - [Install](#install)
+    - [Install](#install)
 - [Examples](#Examples)
-  - [Example of using the library](#example-of-using-the-library)
-  - [Instructions for drawing shapes using canvas](#instructions-for-drawing-shapes-using-canvas)
+    - [Example of using the library](#example-of-using-the-library)
+    - [Instructions for drawing shapes using canvas](#instructions-for-drawing-shapes-using-canvas)
 - Classes
-  - [Circle](docs/classes/Circle.md)
-  - [Rectangle](docs/classes/Rectangle.md)
-  - [Shape](docs/classes/Shape.md)
-  - [Square](docs/classes/Square.md)
-  - [Triangle](docs/classes/Triangle.md)
+    - [Circle](docs/classes/Circle.md)
+    - [Rectangle](docs/classes/Rectangle.md)
+    - [Shape](docs/classes/Shape.md)
+    - [Square](docs/classes/Square.md)
+    - [Triangle](docs/classes/Triangle.md)
 - Type Aliases
-  - [InitialPointType](docs/modules.md#initialpointtype)
+    - [InitialPointType](docs/modules.md#initialpointtype)
 
 ## Type Aliases
 
@@ -68,13 +68,13 @@ Ready! Now you can use the lib-figure-implementation library in your project.
 
 ### Example of using the library
 ```TS
-const circle = Circle.createCircle({ x: 1190, y: 150 }, 100, 'green');
+const circle: Circle = Circle.createCircle({ x: 1190, y: 150 }, 100, 'green');
 // => instance of class Circle to the variable circle
 
-const square = Square.createSquare({ x: 850, y: 50 }, 200, 'blue');
+const square: Square = Square.createSquare({ x: 850, y: 50 }, 200, 'blue');
 // => instance of class Square in square
  
-const triangle = Triangle.createTriangle(
+const triangle: Triangle = Triangle.createTriangle(
   [
     { x: 550, y: 250 },
     { x: 750, y: 250 },
@@ -84,7 +84,7 @@ const triangle = Triangle.createTriangle(
 );
 // => instance of class Triangle to the variable triangle
 
-const rectangle = Rectangle.createRectangle({ x: 150, y: 50 }, 350, 200, 'red');
+const rectangle: Rectangle = Rectangle.createRectangle({ x: 150, y: 50 }, 350, 200, 'red');
 // => instance of class Rectangle to the variable rectangle
 
 circle.area()
@@ -196,11 +196,11 @@ module.exports = {
 #### Create an index.ts file where you can create shapes using the lib-figure-implementation library, for example:
 
 ```shell
-const circle = Circle.createCircle({ x: 1190, y: 150 }, 100, 'green');
+const circle: Circle = Circle.createCircle({ x: 1190, y: 150 }, 100, 'green');
 
-const square = Square.createSquare({ x: 850, y: 50 }, 200, 'blue');
+const square: Square = Square.createSquare({ x: 850, y: 50 }, 200, 'blue');
 
-const triangle = Triangle.createTriangle(
+const triangle: Triangle = Triangle.createTriangle(
     [
         { x: 550, y: 250 },
         { x: 750, y: 250 },
@@ -209,7 +209,7 @@ const triangle = Triangle.createTriangle(
     'black'
 );
 
-const rectangle = Rectangle.createRectangle({ x: 150, y: 50 }, 350, 200, 'red');
+const rectangle: Rectangle = Rectangle.createRectangle({ x: 150, y: 50 }, 350, 200, 'red');
 
 window.onload = () => {
     const canvas = document.getElementById('myCanvas') as HTMLCanvasElement;
@@ -227,14 +227,5 @@ window.onload = () => {
 yarn dev 
 ```
 
-#### Open index.html file in the browser. 
+#### Open index.html file in the browser.
 #### Congratulations, you have built the necessary figures!
-
-
-
-
-
-
-
-
-

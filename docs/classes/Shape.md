@@ -53,7 +53,7 @@ This class is abstract class for describing behavior of different figures
 
 #### Defined in
 
-[features/shape/shape.ts:7](https://github.com/antonnik15/figures-library/blob/52cb69c/src/features/shape/shape.ts#L7)
+[features/shape/shape.ts:7](https://github.com/antonnik15/figures-library/blob/e700ee6/src/features/shape/shape.ts#L7)
 
 ## Properties
 
@@ -63,7 +63,7 @@ This class is abstract class for describing behavior of different figures
 
 #### Defined in
 
-[features/shape/shape.ts:7](https://github.com/antonnik15/figures-library/blob/52cb69c/src/features/shape/shape.ts#L7)
+[features/shape/shape.ts:7](https://github.com/antonnik15/figures-library/blob/e700ee6/src/features/shape/shape.ts#L7)
 
 ___
 
@@ -73,7 +73,7 @@ ___
 
 #### Defined in
 
-[features/shape/shape.ts:7](https://github.com/antonnik15/figures-library/blob/52cb69c/src/features/shape/shape.ts#L7)
+[features/shape/shape.ts:7](https://github.com/antonnik15/figures-library/blob/e700ee6/src/features/shape/shape.ts#L7)
 
 ## Accessors
 
@@ -93,7 +93,7 @@ ___
 
 #### Defined in
 
-[features/shape/shape.ts:11](https://github.com/antonnik15/figures-library/blob/52cb69c/src/features/shape/shape.ts#L11)
+[features/shape/shape.ts:11](https://github.com/antonnik15/figures-library/blob/e700ee6/src/features/shape/shape.ts#L11)
 
 ___
 
@@ -107,7 +107,7 @@ ___
 
 #### Defined in
 
-[features/shape/shape.ts:12](https://github.com/antonnik15/figures-library/blob/52cb69c/src/features/shape/shape.ts#L12)
+[features/shape/shape.ts:12](https://github.com/antonnik15/figures-library/blob/e700ee6/src/features/shape/shape.ts#L12)
 
 ## Methods
 
@@ -121,7 +121,7 @@ ___
 
 #### Defined in
 
-[features/shape/shape.ts:9](https://github.com/antonnik15/figures-library/blob/52cb69c/src/features/shape/shape.ts#L9)
+[features/shape/shape.ts:9](https://github.com/antonnik15/figures-library/blob/e700ee6/src/features/shape/shape.ts#L9)
 
 ___
 
@@ -141,7 +141,7 @@ ___
 
 #### Defined in
 
-[features/shape/shape.ts:13](https://github.com/antonnik15/figures-library/blob/52cb69c/src/features/shape/shape.ts#L13)
+[features/shape/shape.ts:13](https://github.com/antonnik15/figures-library/blob/e700ee6/src/features/shape/shape.ts#L13)
 
 ___
 
@@ -155,4 +155,4 @@ ___
 
 #### Defined in
 
-[features/shape/shape.ts:10](https://github.com/antonnik15/figures-library/blob/52cb69c/src/features/shape/shape.ts#L10)
+[features/shape/shape.ts:10](https://github.com/antonnik15/figures-library/blob/e700ee6/src/features/shape/shape.ts#L10)

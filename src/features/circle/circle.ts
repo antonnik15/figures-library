@@ -69,6 +69,7 @@ export class Circle extends Shape {
   /**
    * This accessor change radius of circle
    *
+   * @param newRadius new radius
    */
   set changeRadius(newRadius: number) {
     this.radius = newRadius;
@@ -77,6 +78,7 @@ export class Circle extends Shape {
   /**
    * This accessor change line color of circle for drawing figure in canvas
    *
+   * @param newColor new line color
    */
   set changeColor(newColor: string) {
     this.color = newColor;

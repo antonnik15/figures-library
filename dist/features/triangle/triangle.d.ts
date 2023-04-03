@@ -76,16 +76,19 @@ export declare class Triangle extends Shape {
     /**
      * This accessor change side length "a" of triangle
      *
+     * @param newA new side "a"
      */
     set changeA(newA: number);
     /**
      * This accessor change side length "b" of triangle
      *
+     * @param newB new side "b"
      */
     set changeB(newB: number);
     /**
      * This accessor change side length "c" of triangle
      *
+     * @param newC new side "a"
      */
     set changeC(newC: number);
     /**
@@ -101,6 +104,7 @@ export declare class Triangle extends Shape {
     /**
      * This accessor change line color of triangle for drawing figure in canvas
      *
+     * @param newColor new line color
      */
     set changeColor(newColor: string);
     /**

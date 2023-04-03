@@ -31,4 +31,4 @@
 
 #### Defined in
 
-[features/shape/coordinates-type.ts:1](https://github.com/antonnik15/figures-library/blob/52cb69c/src/features/shape/coordinates-type.ts#L1)
+[features/shape/coordinates-type.ts:1](https://github.com/antonnik15/figures-library/blob/e700ee6/src/features/shape/coordinates-type.ts#L1)

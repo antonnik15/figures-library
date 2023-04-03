@@ -61,7 +61,7 @@ This class describes the internal structure and behavior of the rectangle object
 
 #### Defined in
 
-[features/rectangle/rectangle.ts:9](https://github.com/antonnik15/figures-library/blob/52cb69c/src/features/rectangle/rectangle.ts#L9)
+[features/rectangle/rectangle.ts:9](https://github.com/antonnik15/figures-library/blob/e700ee6/src/features/rectangle/rectangle.ts#L9)
 
 ## Properties
 
@@ -75,7 +75,7 @@ This class describes the internal structure and behavior of the rectangle object
 
 #### Defined in
 
-[features/shape/shape.ts:7](https://github.com/antonnik15/figures-library/blob/52cb69c/src/features/shape/shape.ts#L7)
+[features/shape/shape.ts:7](https://github.com/antonnik15/figures-library/blob/e700ee6/src/features/shape/shape.ts#L7)
 
 ___
 
@@ -85,7 +85,7 @@ ___
 
 #### Defined in
 
-[features/rectangle/rectangle.ts:9](https://github.com/antonnik15/figures-library/blob/52cb69c/src/features/rectangle/rectangle.ts#L9)
+[features/rectangle/rectangle.ts:9](https://github.com/antonnik15/figures-library/blob/e700ee6/src/features/rectangle/rectangle.ts#L9)
 
 ___
 
@@ -99,7 +99,7 @@ ___
 
 #### Defined in
 
-[features/shape/shape.ts:7](https://github.com/antonnik15/figures-library/blob/52cb69c/src/features/shape/shape.ts#L7)
+[features/shape/shape.ts:7](https://github.com/antonnik15/figures-library/blob/e700ee6/src/features/shape/shape.ts#L7)
 
 ___
 
@@ -109,7 +109,7 @@ ___
 
 #### Defined in
 
-[features/rectangle/rectangle.ts:9](https://github.com/antonnik15/figures-library/blob/52cb69c/src/features/rectangle/rectangle.ts#L9)
+[features/rectangle/rectangle.ts:9](https://github.com/antonnik15/figures-library/blob/e700ee6/src/features/rectangle/rectangle.ts#L9)
 
 ## Accessors
 
@@ -121,9 +121,9 @@ This accessor change line color of rectangle for drawing figure in canvas
 
 #### Parameters
 
-| Name | Type |
-| :------ | :------ |
-| `newColor` | `string` |
+| Name | Type | Description |
+| :------ | :------ | :------ |
+| `newColor` | `string` | new line color |
 
 #### Returns
 
@@ -135,7 +135,7 @@ Shape.changeColor
 
 #### Defined in
 
-[features/rectangle/rectangle.ts:110](https://github.com/antonnik15/figures-library/blob/52cb69c/src/features/rectangle/rectangle.ts#L110)
+[features/rectangle/rectangle.ts:113](https://github.com/antonnik15/figures-library/blob/e700ee6/src/features/rectangle/rectangle.ts#L113)
 
 ___
 
@@ -147,9 +147,9 @@ This accessor change length of rectangle
 
 #### Parameters
 
-| Name | Type |
-| :------ | :------ |
-| `newLength` | `number` |
+| Name | Type | Description |
+| :------ | :------ | :------ |
+| `newLength` | `number` | new length for rectangle |
 
 #### Returns
 
@@ -157,7 +157,7 @@ This accessor change length of rectangle
 
 #### Defined in
 
-[features/rectangle/rectangle.ts:84](https://github.com/antonnik15/figures-library/blob/52cb69c/src/features/rectangle/rectangle.ts#L84)
+[features/rectangle/rectangle.ts:86](https://github.com/antonnik15/figures-library/blob/e700ee6/src/features/rectangle/rectangle.ts#L86)
 
 ___
 
@@ -169,9 +169,9 @@ This accessor change width of rectangle
 
 #### Parameters
 
-| Name | Type |
-| :------ | :------ |
-| `newWidth` | `number` |
+| Name | Type | Description |
+| :------ | :------ | :------ |
+| `newWidth` | `number` | new width for rectangle |
 
 #### Returns
 
@@ -179,7 +179,7 @@ This accessor change width of rectangle
 
 #### Defined in
 
-[features/rectangle/rectangle.ts:76](https://github.com/antonnik15/figures-library/blob/52cb69c/src/features/rectangle/rectangle.ts#L76)
+[features/rectangle/rectangle.ts:77](https://github.com/antonnik15/figures-library/blob/e700ee6/src/features/rectangle/rectangle.ts#L77)
 
 ___
 
@@ -201,7 +201,7 @@ Shape.getColor
 
 #### Defined in
 
-[features/rectangle/rectangle.ts:119](https://github.com/antonnik15/figures-library/blob/52cb69c/src/features/rectangle/rectangle.ts#L119)
+[features/rectangle/rectangle.ts:122](https://github.com/antonnik15/figures-library/blob/e700ee6/src/features/rectangle/rectangle.ts#L122)
 
 ___
 
@@ -219,7 +219,7 @@ length of rectangle
 
 #### Defined in
 
-[features/rectangle/rectangle.ts:102](https://github.com/antonnik15/figures-library/blob/52cb69c/src/features/rectangle/rectangle.ts#L102)
+[features/rectangle/rectangle.ts:104](https://github.com/antonnik15/figures-library/blob/e700ee6/src/features/rectangle/rectangle.ts#L104)
 
 ___
 
@@ -237,7 +237,7 @@ width of rectangle
 
 #### Defined in
 
-[features/rectangle/rectangle.ts:93](https://github.com/antonnik15/figures-library/blob/52cb69c/src/features/rectangle/rectangle.ts#L93)
+[features/rectangle/rectangle.ts:95](https://github.com/antonnik15/figures-library/blob/e700ee6/src/features/rectangle/rectangle.ts#L95)
 
 ## Methods
 
@@ -259,7 +259,7 @@ area of rectangle
 
 #### Defined in
 
-[features/rectangle/rectangle.ts:36](https://github.com/antonnik15/figures-library/blob/52cb69c/src/features/rectangle/rectangle.ts#L36)
+[features/rectangle/rectangle.ts:36](https://github.com/antonnik15/figures-library/blob/e700ee6/src/features/rectangle/rectangle.ts#L36)
 
 ___
 
@@ -277,7 +277,7 @@ diagonal of rectangle
 
 #### Defined in
 
-[features/rectangle/rectangle.ts:45](https://github.com/antonnik15/figures-library/blob/52cb69c/src/features/rectangle/rectangle.ts#L45)
+[features/rectangle/rectangle.ts:45](https://github.com/antonnik15/figures-library/blob/e700ee6/src/features/rectangle/rectangle.ts#L45)
 
 ___
 
@@ -303,7 +303,7 @@ This method draws rectangle in canvas
 
 #### Defined in
 
-[features/rectangle/rectangle.ts:62](https://github.com/antonnik15/figures-library/blob/52cb69c/src/features/rectangle/rectangle.ts#L62)
+[features/rectangle/rectangle.ts:62](https://github.com/antonnik15/figures-library/blob/e700ee6/src/features/rectangle/rectangle.ts#L62)
 
 ___
 
@@ -325,7 +325,7 @@ perimeter of rectangle
 
 #### Defined in
 
-[features/rectangle/rectangle.ts:54](https://github.com/antonnik15/figures-library/blob/52cb69c/src/features/rectangle/rectangle.ts#L54)
+[features/rectangle/rectangle.ts:54](https://github.com/antonnik15/figures-library/blob/e700ee6/src/features/rectangle/rectangle.ts#L54)
 
 ___
 
@@ -350,4 +350,4 @@ the instance of class Rectangle
 
 #### Defined in
 
-[features/rectangle/rectangle.ts:21](https://github.com/antonnik15/figures-library/blob/52cb69c/src/features/rectangle/rectangle.ts#L21)
+[features/rectangle/rectangle.ts:21](https://github.com/antonnik15/figures-library/blob/e700ee6/src/features/rectangle/rectangle.ts#L21)

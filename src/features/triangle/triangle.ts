@@ -112,7 +112,7 @@ export class Triangle extends Shape {
    *
    * @returns height of triangle
    */
-  height() {
+  height(): number {
     return (2 * this.area()) / this.a;
   }
 
@@ -121,7 +121,7 @@ export class Triangle extends Shape {
    *
    * @returns side length "a" of triangle
    */
-  get getA() {
+  get getA(): number {
     return this.a;
   }
 
@@ -130,7 +130,7 @@ export class Triangle extends Shape {
    *
    * @returns side length "b" of triangle
    */
-  get getB() {
+  get getB(): number {
     return this.b;
   }
 
@@ -139,13 +139,14 @@ export class Triangle extends Shape {
    *
    * @returns side length "c" of triangle
    */
-  get getC() {
+  get getC(): number {
     return this.c;
   }
 
   /**
    * This accessor change side length "a" of triangle
    *
+   * @param newA new side "a"
    */
   set changeA(newA: number) {
     if (!this.existTriangleWithNewSide(newA, this.getB, this.getC)) {
@@ -157,6 +158,7 @@ export class Triangle extends Shape {
   /**
    * This accessor change side length "b" of triangle
    *
+   * @param newB new side "b"
    */
   set changeB(newB: number) {
     if (!this.existTriangleWithNewSide(this.getA, newB, this.getC)) {
@@ -168,6 +170,7 @@ export class Triangle extends Shape {
   /**
    * This accessor change side length "c" of triangle
    *
+   * @param newC new side "a"
    */
   set changeC(newC: number) {
     if (!this.existTriangleWithNewSide(this.getA, this.getB, newC)) {
@@ -193,6 +196,7 @@ export class Triangle extends Shape {
   /**
    * This accessor change line color of triangle for drawing figure in canvas
    *
+   * @param newColor new line color
    */
   set changeColor(newColor: string) {
     this.color = newColor;

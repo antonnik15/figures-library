@@ -72,6 +72,7 @@ export class Rectangle extends Shape {
   /**
    * This accessor change width of rectangle
    *
+   * @param newWidth new width for rectangle
    */
   set changeWidth(newWidth: number) {
     this.width = newWidth;
@@ -80,6 +81,7 @@ export class Rectangle extends Shape {
   /**
    * This accessor change length of rectangle
    *
+   * @param newLength new length for rectangle
    */
   set changeLength(newLength: number) {
     this.height = newLength;
@@ -106,6 +108,7 @@ export class Rectangle extends Shape {
   /**
    * This accessor change line color of rectangle for drawing figure in canvas
    *
+   * @param newColor new line color
    */
   set changeColor(newColor: string) {
     this.color = newColor;
