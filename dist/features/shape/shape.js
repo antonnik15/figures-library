@@ -11,4 +11,3 @@ class Shape {
     }
 }
 exports.Shape = Shape;
-//# sourceMappingURL=shape.js.map

@@ -36,4 +36,3 @@ function throwError(errorMessage, figureName) {
         figureName
     };
 }
-//# sourceMappingURL=error-handler.js.map

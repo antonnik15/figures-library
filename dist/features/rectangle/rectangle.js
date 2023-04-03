@@ -113,4 +113,3 @@ class Rectangle extends shape_1.Shape {
     }
 }
 exports.Rectangle = Rectangle;
-//# sourceMappingURL=rectangle.js.map

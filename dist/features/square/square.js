@@ -94,4 +94,3 @@ class Square extends shape_1.Shape {
     }
 }
 exports.Square = Square;
-//# sourceMappingURL=square.js.map

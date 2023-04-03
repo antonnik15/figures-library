@@ -187,4 +187,3 @@ class Triangle extends shape_1.Shape {
     }
 }
 exports.Triangle = Triangle;
-//# sourceMappingURL=triangle.js.map

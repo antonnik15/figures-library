@@ -86,4 +86,3 @@ class Circle extends shape_1.Shape {
     }
 }
 exports.Circle = Circle;
-//# sourceMappingURL=circle.js.map

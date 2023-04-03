@@ -11,4 +11,3 @@ const square_1 = require("./features/square");
 Object.defineProperty(exports, "Square", { enumerable: true, get: function () { return square_1.Square; } });
 const triangle_1 = require("./features/triangle");
 Object.defineProperty(exports, "Triangle", { enumerable: true, get: function () { return triangle_1.Triangle; } });
-//# sourceMappingURL=index.js.map
