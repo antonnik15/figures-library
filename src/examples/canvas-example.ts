@@ -3,23 +3,23 @@ import { Rectangle } from '../features/rectangle';
 import { Square } from '../features/square';
 import { Triangle } from '../features/triangle';
 
-const circle = Circle.createCircle({ x: 100, y: 100 }, 100, 'green');
+const circle = Circle.createCircle({ x: 1190, y: 150 }, 100, 'green');
 console.log(circle);
 
-const rectangle = Rectangle.createRectangle({ x: 150, y: 120 }, 50, 70, 'red');
-console.log(rectangle);
-
-const square = Square.createSquare({ x: 120, y: 200 }, 200, 'blue');
+const square = Square.createSquare({ x: 850, y: 50 }, 200, 'blue');
 console.log(square);
 
 const triangle = Triangle.createTriangle(
   [
-    { x: 100, y: 200 },
-    { x: 500, y: 200 },
-    { x: 300, y: 100 }
+    { x: 550, y: 250 },
+    { x: 750, y: 250 },
+    { x: 650, y: 50 }
   ],
   'black'
 );
+
+const rectangle = Rectangle.createRectangle({ x: 150, y: 50 }, 350, 200, 'red');
+console.log(rectangle);
 
 window.onload = () => {
   const canvas = document.getElementById('myCanvas') as HTMLCanvasElement;

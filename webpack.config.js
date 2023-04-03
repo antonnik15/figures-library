@@ -1,3 +1,4 @@
+
 module.exports = {
     entry: ['./src/index.ts', './src/examples/canvas-example.ts'],
     output: {

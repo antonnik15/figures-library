@@ -1,4 +1,4 @@
-[lib-figure-implementation](README.md) / Exports
+[lib-figure-implementation](DOCUMENTATION.md) / Exports
 
 # lib-figure-implementation
 
@@ -31,4 +31,4 @@
 
 #### Defined in
 
-features/shape/coordinates-type.ts:1
+[features/shape/coordinates-type.ts:1](https://github.com/antonnik15/figures-library/blob/6be00a5/src/features/shape/coordinates-type.ts#L1)
