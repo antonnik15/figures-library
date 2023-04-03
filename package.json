@@ -1,9 +1,9 @@
 {
   "name": "lib-figure-implementation",
   "version": "1.0.2",
-  "main": "dist/index.js",
+  "main": "dist/bundle.js",
   "types": "dist/index.d.ts",
-  "module": "dist/index.js",
+  "module": "dist/bundle.js",
   "license": "MIT",
   "prepublish": "yarn build && yarn test",
   "scripts": {
