@@ -5,7 +5,6 @@
   "types": "dist/index.d.ts",
   "module": "dist/index.js",
   "license": "MIT",
-  "prepublish": "yarn build && yarn test",
   "scripts": {
     "prettier": "prettier --write src",
     "tslint": "tslint -p tslint -p tsconfig.json",
