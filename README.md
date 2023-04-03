@@ -10,23 +10,19 @@
 - Easy to use
 
 ## Table of contents
-
-### Classes
-
-- [Circle](docs/classes/Circle.md)
-- [Rectangle](docs/classes/Rectangle.md)
-- [Shape](docs/classes/Shape.md)
-- [Square](docs/classes/Square.md)
-- [Triangle](docs/classes/Triangle.md)
-
-### Type Aliases
-
-- [InitialPointType](docs/modules.md#initialpointtype)
-
-### Examples
-
-- [Example](README.md#example)
-- [Instruction for drawing figures in canvas](README.md#Instructions for drawing shapes using canvas)
+- [Quick start](#quick-start)
+  - [Install](#install)
+- [Examples](#Examples)
+  - [Example of using the library](#example-of-using-the-library)
+  - [Instructions for drawing shapes using canvas](#instructions-for-drawing-shapes-using-canvas)
+- Classes
+  - [Circle](docs/classes/Circle.md)
+  - [Rectangle](docs/classes/Rectangle.md)
+  - [Shape](docs/classes/Shape.md)
+  - [Square](docs/classes/Square.md)
+  - [Triangle](docs/classes/Triangle.md)
+- Type Aliases
+  - [InitialPointType](docs/modules.md#initialpointtype)
 
 ## Type Aliases
 
@@ -68,7 +64,9 @@ npm install lib-figure-implementation --save
 Ready! Now you can use the lib-figure-implementation library in your project.
 
 
-#### Example
+## Examples
+
+### Example of using the library
 ```TS
 const circle = Circle.createCircle({ x: 1190, y: 150 }, 100, 'green');
 // => instance of class Circle to the variable circle
@@ -108,7 +106,7 @@ circle.changeColor("white")
 // => change line color of circle
 ```
 
-## Instructions for drawing shapes using canvas
+### Instructions for drawing shapes using canvas
 
 #### Initialize your project with the command:
 
