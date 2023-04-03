@@ -57,7 +57,7 @@ This class describes the internal structure and behavior of the square object
 
 #### Defined in
 
-[features/square/square.ts:9](https://github.com/antonnik15/figures-library/blob/6be00a5/src/features/square/square.ts#L9)
+[features/square/square.ts:9](https://github.com/antonnik15/figures-library/blob/b2d82e1/src/features/square/square.ts#L9)
 
 ## Properties
 
@@ -71,7 +71,7 @@ This class describes the internal structure and behavior of the square object
 
 #### Defined in
 
-[features/shape/shape.ts:7](https://github.com/antonnik15/figures-library/blob/6be00a5/src/features/shape/shape.ts#L7)
+[features/shape/shape.ts:7](https://github.com/antonnik15/figures-library/blob/b2d82e1/src/features/shape/shape.ts#L7)
 
 ___
 
@@ -85,7 +85,7 @@ ___
 
 #### Defined in
 
-[features/shape/shape.ts:7](https://github.com/antonnik15/figures-library/blob/6be00a5/src/features/shape/shape.ts#L7)
+[features/shape/shape.ts:7](https://github.com/antonnik15/figures-library/blob/b2d82e1/src/features/shape/shape.ts#L7)
 
 ___
 
@@ -95,7 +95,7 @@ ___
 
 #### Defined in
 
-[features/square/square.ts:9](https://github.com/antonnik15/figures-library/blob/6be00a5/src/features/square/square.ts#L9)
+[features/square/square.ts:9](https://github.com/antonnik15/figures-library/blob/b2d82e1/src/features/square/square.ts#L9)
 
 ## Accessors
 
@@ -121,7 +121,7 @@ Shape.changeColor
 
 #### Defined in
 
-[features/square/square.ts:90](https://github.com/antonnik15/figures-library/blob/6be00a5/src/features/square/square.ts#L90)
+[features/square/square.ts:90](https://github.com/antonnik15/figures-library/blob/b2d82e1/src/features/square/square.ts#L90)
 
 ___
 
@@ -143,7 +143,7 @@ This accessor change side length of square
 
 #### Defined in
 
-[features/square/square.ts:73](https://github.com/antonnik15/figures-library/blob/6be00a5/src/features/square/square.ts#L73)
+[features/square/square.ts:73](https://github.com/antonnik15/figures-library/blob/b2d82e1/src/features/square/square.ts#L73)
 
 ___
 
@@ -165,7 +165,7 @@ Shape.getColor
 
 #### Defined in
 
-[features/square/square.ts:99](https://github.com/antonnik15/figures-library/blob/6be00a5/src/features/square/square.ts#L99)
+[features/square/square.ts:99](https://github.com/antonnik15/figures-library/blob/b2d82e1/src/features/square/square.ts#L99)
 
 ___
 
@@ -183,7 +183,7 @@ side length of square
 
 #### Defined in
 
-[features/square/square.ts:82](https://github.com/antonnik15/figures-library/blob/6be00a5/src/features/square/square.ts#L82)
+[features/square/square.ts:82](https://github.com/antonnik15/figures-library/blob/b2d82e1/src/features/square/square.ts#L82)
 
 ## Methods
 
@@ -205,7 +205,7 @@ area of square
 
 #### Defined in
 
-[features/square/square.ts:33](https://github.com/antonnik15/figures-library/blob/6be00a5/src/features/square/square.ts#L33)
+[features/square/square.ts:33](https://github.com/antonnik15/figures-library/blob/b2d82e1/src/features/square/square.ts#L33)
 
 ___
 
@@ -223,7 +223,7 @@ diagonal of square
 
 #### Defined in
 
-[features/square/square.ts:42](https://github.com/antonnik15/figures-library/blob/6be00a5/src/features/square/square.ts#L42)
+[features/square/square.ts:42](https://github.com/antonnik15/figures-library/blob/b2d82e1/src/features/square/square.ts#L42)
 
 ___
 
@@ -249,7 +249,7 @@ This method draws square in canvas
 
 #### Defined in
 
-[features/square/square.ts:59](https://github.com/antonnik15/figures-library/blob/6be00a5/src/features/square/square.ts#L59)
+[features/square/square.ts:59](https://github.com/antonnik15/figures-library/blob/b2d82e1/src/features/square/square.ts#L59)
 
 ___
 
@@ -271,7 +271,7 @@ perimeter of square
 
 #### Defined in
 
-[features/square/square.ts:51](https://github.com/antonnik15/figures-library/blob/6be00a5/src/features/square/square.ts#L51)
+[features/square/square.ts:51](https://github.com/antonnik15/figures-library/blob/b2d82e1/src/features/square/square.ts#L51)
 
 ___
 
@@ -297,4 +297,4 @@ the instance of class Square
 
 #### Defined in
 
-[features/square/square.ts:21](https://github.com/antonnik15/figures-library/blob/6be00a5/src/features/square/square.ts#L21)
+[features/square/square.ts:21](https://github.com/antonnik15/figures-library/blob/b2d82e1/src/features/square/square.ts#L21)
