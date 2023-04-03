@@ -10,10 +10,10 @@
     "prettier": "prettier --write src",
     "tslint": "tslint -p tslint -p tsconfig.json",
     "codestyle": "yarn prettier && yarn tslint",
-    "build": "yarn codestyle && yarn webpack && yarn typedoc",
+    "build": "yarn codestyle && yarn test && yarn webpack && yarn typedoc",
     "test": "jest",
     "dev" : "webpack",
-    "typed": "typedoc --plugin typedoc-plugin-markdown --config typedoc.json"
+    "typedoc": "typedoc --plugin typedoc-plugin-markdown"
   },
   "devDependencies": {
     "@types/jest": "^29.5.0",

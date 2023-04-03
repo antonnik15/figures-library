@@ -66,7 +66,7 @@ This class describes the internal structure and behavior of the triangle object
 
 #### Defined in
 
-[features/triangle/triangle.ts:13](https://github.com/antonnik15/figures-library/blob/b2d82e1/src/features/triangle/triangle.ts#L13)
+[features/triangle/triangle.ts:13](https://github.com/antonnik15/figures-library/blob/d6c8394/src/features/triangle/triangle.ts#L13)
 
 ## Properties
 
@@ -76,7 +76,7 @@ This class describes the internal structure and behavior of the triangle object
 
 #### Defined in
 
-[features/triangle/triangle.ts:9](https://github.com/antonnik15/figures-library/blob/b2d82e1/src/features/triangle/triangle.ts#L9)
+[features/triangle/triangle.ts:9](https://github.com/antonnik15/figures-library/blob/d6c8394/src/features/triangle/triangle.ts#L9)
 
 ___
 
@@ -86,7 +86,7 @@ ___
 
 #### Defined in
 
-[features/triangle/triangle.ts:10](https://github.com/antonnik15/figures-library/blob/b2d82e1/src/features/triangle/triangle.ts#L10)
+[features/triangle/triangle.ts:10](https://github.com/antonnik15/figures-library/blob/d6c8394/src/features/triangle/triangle.ts#L10)
 
 ___
 
@@ -96,7 +96,7 @@ ___
 
 #### Defined in
 
-[features/triangle/triangle.ts:11](https://github.com/antonnik15/figures-library/blob/b2d82e1/src/features/triangle/triangle.ts#L11)
+[features/triangle/triangle.ts:11](https://github.com/antonnik15/figures-library/blob/d6c8394/src/features/triangle/triangle.ts#L11)
 
 ___
 
@@ -110,7 +110,7 @@ ___
 
 #### Defined in
 
-[features/shape/shape.ts:7](https://github.com/antonnik15/figures-library/blob/b2d82e1/src/features/shape/shape.ts#L7)
+[features/shape/shape.ts:7](https://github.com/antonnik15/figures-library/blob/d6c8394/src/features/shape/shape.ts#L7)
 
 ___
 
@@ -124,7 +124,7 @@ ___
 
 #### Defined in
 
-[features/shape/shape.ts:7](https://github.com/antonnik15/figures-library/blob/b2d82e1/src/features/shape/shape.ts#L7)
+[features/shape/shape.ts:7](https://github.com/antonnik15/figures-library/blob/d6c8394/src/features/shape/shape.ts#L7)
 
 ## Accessors
 
@@ -146,7 +146,7 @@ This accessor change side length "a" of triangle
 
 #### Defined in
 
-[features/triangle/triangle.ts:150](https://github.com/antonnik15/figures-library/blob/b2d82e1/src/features/triangle/triangle.ts#L150)
+[features/triangle/triangle.ts:150](https://github.com/antonnik15/figures-library/blob/d6c8394/src/features/triangle/triangle.ts#L150)
 
 ___
 
@@ -168,7 +168,7 @@ This accessor change side length "b" of triangle
 
 #### Defined in
 
-[features/triangle/triangle.ts:161](https://github.com/antonnik15/figures-library/blob/b2d82e1/src/features/triangle/triangle.ts#L161)
+[features/triangle/triangle.ts:161](https://github.com/antonnik15/figures-library/blob/d6c8394/src/features/triangle/triangle.ts#L161)
 
 ___
 
@@ -190,7 +190,7 @@ This accessor change side length "c" of triangle
 
 #### Defined in
 
-[features/triangle/triangle.ts:172](https://github.com/antonnik15/figures-library/blob/b2d82e1/src/features/triangle/triangle.ts#L172)
+[features/triangle/triangle.ts:172](https://github.com/antonnik15/figures-library/blob/d6c8394/src/features/triangle/triangle.ts#L172)
 
 ___
 
@@ -216,7 +216,7 @@ Shape.changeColor
 
 #### Defined in
 
-[features/triangle/triangle.ts:197](https://github.com/antonnik15/figures-library/blob/b2d82e1/src/features/triangle/triangle.ts#L197)
+[features/triangle/triangle.ts:197](https://github.com/antonnik15/figures-library/blob/d6c8394/src/features/triangle/triangle.ts#L197)
 
 ___
 
@@ -234,7 +234,7 @@ side length "a" of triangle
 
 #### Defined in
 
-[features/triangle/triangle.ts:124](https://github.com/antonnik15/figures-library/blob/b2d82e1/src/features/triangle/triangle.ts#L124)
+[features/triangle/triangle.ts:124](https://github.com/antonnik15/figures-library/blob/d6c8394/src/features/triangle/triangle.ts#L124)
 
 ___
 
@@ -252,7 +252,7 @@ side length "b" of triangle
 
 #### Defined in
 
-[features/triangle/triangle.ts:133](https://github.com/antonnik15/figures-library/blob/b2d82e1/src/features/triangle/triangle.ts#L133)
+[features/triangle/triangle.ts:133](https://github.com/antonnik15/figures-library/blob/d6c8394/src/features/triangle/triangle.ts#L133)
 
 ___
 
@@ -270,7 +270,7 @@ side length "c" of triangle
 
 #### Defined in
 
-[features/triangle/triangle.ts:142](https://github.com/antonnik15/figures-library/blob/b2d82e1/src/features/triangle/triangle.ts#L142)
+[features/triangle/triangle.ts:142](https://github.com/antonnik15/figures-library/blob/d6c8394/src/features/triangle/triangle.ts#L142)
 
 ___
 
@@ -292,7 +292,7 @@ Shape.getColor
 
 #### Defined in
 
-[features/triangle/triangle.ts:206](https://github.com/antonnik15/figures-library/blob/b2d82e1/src/features/triangle/triangle.ts#L206)
+[features/triangle/triangle.ts:206](https://github.com/antonnik15/figures-library/blob/d6c8394/src/features/triangle/triangle.ts#L206)
 
 ## Methods
 
@@ -314,7 +314,7 @@ area of triangle
 
 #### Defined in
 
-[features/triangle/triangle.ts:77](https://github.com/antonnik15/figures-library/blob/b2d82e1/src/features/triangle/triangle.ts#L77)
+[features/triangle/triangle.ts:77](https://github.com/antonnik15/figures-library/blob/d6c8394/src/features/triangle/triangle.ts#L77)
 
 ___
 
@@ -340,7 +340,7 @@ This method draws triangle in canvas
 
 #### Defined in
 
-[features/triangle/triangle.ts:95](https://github.com/antonnik15/figures-library/blob/b2d82e1/src/features/triangle/triangle.ts#L95)
+[features/triangle/triangle.ts:95](https://github.com/antonnik15/figures-library/blob/d6c8394/src/features/triangle/triangle.ts#L95)
 
 ___
 
@@ -367,7 +367,7 @@ true or false
 
 #### Defined in
 
-[features/triangle/triangle.ts:188](https://github.com/antonnik15/figures-library/blob/b2d82e1/src/features/triangle/triangle.ts#L188)
+[features/triangle/triangle.ts:188](https://github.com/antonnik15/figures-library/blob/d6c8394/src/features/triangle/triangle.ts#L188)
 
 ___
 
@@ -385,7 +385,7 @@ height of triangle
 
 #### Defined in
 
-[features/triangle/triangle.ts:115](https://github.com/antonnik15/figures-library/blob/b2d82e1/src/features/triangle/triangle.ts#L115)
+[features/triangle/triangle.ts:115](https://github.com/antonnik15/figures-library/blob/d6c8394/src/features/triangle/triangle.ts#L115)
 
 ___
 
@@ -407,7 +407,7 @@ perimeter of triangle
 
 #### Defined in
 
-[features/triangle/triangle.ts:87](https://github.com/antonnik15/figures-library/blob/b2d82e1/src/features/triangle/triangle.ts#L87)
+[features/triangle/triangle.ts:87](https://github.com/antonnik15/figures-library/blob/d6c8394/src/features/triangle/triangle.ts#L87)
 
 ___
 
@@ -432,7 +432,7 @@ the instance of class Triangle
 
 #### Defined in
 
-[features/triangle/triangle.ts:27](https://github.com/antonnik15/figures-library/blob/b2d82e1/src/features/triangle/triangle.ts#L27)
+[features/triangle/triangle.ts:27](https://github.com/antonnik15/figures-library/blob/d6c8394/src/features/triangle/triangle.ts#L27)
 
 ___
 
@@ -458,7 +458,7 @@ true or false
 
 #### Defined in
 
-[features/triangle/triangle.ts:44](https://github.com/antonnik15/figures-library/blob/b2d82e1/src/features/triangle/triangle.ts#L44)
+[features/triangle/triangle.ts:44](https://github.com/antonnik15/figures-library/blob/d6c8394/src/features/triangle/triangle.ts#L44)
 
 ___
 
@@ -480,4 +480,4 @@ This static method returns an array of the lengths of the sides of the triangle
 
 #### Defined in
 
-[features/triangle/triangle.ts:55](https://github.com/antonnik15/figures-library/blob/b2d82e1/src/features/triangle/triangle.ts#L55)
+[features/triangle/triangle.ts:55](https://github.com/antonnik15/figures-library/blob/d6c8394/src/features/triangle/triangle.ts#L55)

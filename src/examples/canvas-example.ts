@@ -4,10 +4,8 @@ import { Square } from '../features/square';
 import { Triangle } from '../features/triangle';
 
 const circle = Circle.createCircle({ x: 1190, y: 150 }, 100, 'green');
-console.log(circle);
 
 const square = Square.createSquare({ x: 850, y: 50 }, 200, 'blue');
-console.log(square);
 
 const triangle = Triangle.createTriangle(
   [
@@ -19,7 +17,6 @@ const triangle = Triangle.createTriangle(
 );
 
 const rectangle = Rectangle.createRectangle({ x: 150, y: 50 }, 350, 200, 'red');
-console.log(rectangle);
 
 window.onload = () => {
   const canvas = document.getElementById('myCanvas') as HTMLCanvasElement;

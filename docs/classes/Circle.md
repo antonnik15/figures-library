@@ -56,7 +56,7 @@ This class describes the internal structure and behavior of the circle object
 
 #### Defined in
 
-[features/circle/circle.ts:9](https://github.com/antonnik15/figures-library/blob/b2d82e1/src/features/circle/circle.ts#L9)
+[features/circle/circle.ts:9](https://github.com/antonnik15/figures-library/blob/d6c8394/src/features/circle/circle.ts#L9)
 
 ## Properties
 
@@ -70,7 +70,7 @@ This class describes the internal structure and behavior of the circle object
 
 #### Defined in
 
-[features/shape/shape.ts:7](https://github.com/antonnik15/figures-library/blob/b2d82e1/src/features/shape/shape.ts#L7)
+[features/shape/shape.ts:7](https://github.com/antonnik15/figures-library/blob/d6c8394/src/features/shape/shape.ts#L7)
 
 ___
 
@@ -84,7 +84,7 @@ ___
 
 #### Defined in
 
-[features/shape/shape.ts:7](https://github.com/antonnik15/figures-library/blob/b2d82e1/src/features/shape/shape.ts#L7)
+[features/shape/shape.ts:7](https://github.com/antonnik15/figures-library/blob/d6c8394/src/features/shape/shape.ts#L7)
 
 ___
 
@@ -94,7 +94,7 @@ ___
 
 #### Defined in
 
-[features/circle/circle.ts:9](https://github.com/antonnik15/figures-library/blob/b2d82e1/src/features/circle/circle.ts#L9)
+[features/circle/circle.ts:9](https://github.com/antonnik15/figures-library/blob/d6c8394/src/features/circle/circle.ts#L9)
 
 ## Accessors
 
@@ -120,7 +120,7 @@ Shape.changeColor
 
 #### Defined in
 
-[features/circle/circle.ts:81](https://github.com/antonnik15/figures-library/blob/b2d82e1/src/features/circle/circle.ts#L81)
+[features/circle/circle.ts:81](https://github.com/antonnik15/figures-library/blob/d6c8394/src/features/circle/circle.ts#L81)
 
 ___
 
@@ -142,7 +142,7 @@ This accessor change radius of circle
 
 #### Defined in
 
-[features/circle/circle.ts:73](https://github.com/antonnik15/figures-library/blob/b2d82e1/src/features/circle/circle.ts#L73)
+[features/circle/circle.ts:73](https://github.com/antonnik15/figures-library/blob/d6c8394/src/features/circle/circle.ts#L73)
 
 ___
 
@@ -164,7 +164,7 @@ Shape.getColor
 
 #### Defined in
 
-[features/circle/circle.ts:90](https://github.com/antonnik15/figures-library/blob/b2d82e1/src/features/circle/circle.ts#L90)
+[features/circle/circle.ts:90](https://github.com/antonnik15/figures-library/blob/d6c8394/src/features/circle/circle.ts#L90)
 
 ___
 
@@ -182,7 +182,7 @@ radius of circle
 
 #### Defined in
 
-[features/circle/circle.ts:65](https://github.com/antonnik15/figures-library/blob/b2d82e1/src/features/circle/circle.ts#L65)
+[features/circle/circle.ts:65](https://github.com/antonnik15/figures-library/blob/d6c8394/src/features/circle/circle.ts#L65)
 
 ## Methods
 
@@ -204,7 +204,7 @@ area of circle
 
 #### Defined in
 
-[features/circle/circle.ts:33](https://github.com/antonnik15/figures-library/blob/b2d82e1/src/features/circle/circle.ts#L33)
+[features/circle/circle.ts:33](https://github.com/antonnik15/figures-library/blob/d6c8394/src/features/circle/circle.ts#L33)
 
 ___
 
@@ -230,7 +230,7 @@ This method draws circle in canvas
 
 #### Defined in
 
-[features/circle/circle.ts:50](https://github.com/antonnik15/figures-library/blob/b2d82e1/src/features/circle/circle.ts#L50)
+[features/circle/circle.ts:50](https://github.com/antonnik15/figures-library/blob/d6c8394/src/features/circle/circle.ts#L50)
 
 ___
 
@@ -252,7 +252,7 @@ perimeter of circle
 
 #### Defined in
 
-[features/circle/circle.ts:42](https://github.com/antonnik15/figures-library/blob/b2d82e1/src/features/circle/circle.ts#L42)
+[features/circle/circle.ts:42](https://github.com/antonnik15/figures-library/blob/d6c8394/src/features/circle/circle.ts#L42)
 
 ___
 
@@ -278,4 +278,4 @@ the instance of class Circle
 
 #### Defined in
 
-[features/circle/circle.ts:21](https://github.com/antonnik15/figures-library/blob/b2d82e1/src/features/circle/circle.ts#L21)
+[features/circle/circle.ts:21](https://github.com/antonnik15/figures-library/blob/d6c8394/src/features/circle/circle.ts#L21)
